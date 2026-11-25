@@ -5,3 +5,8 @@
 /.vs
 /bin/Debug/net8.0
 /obj
+/DesignPatternsDemo/.vs
+/DesignPatternsDemo/bin/Debug/net8.0
+/DesignPatternsDemo/obj
+/DesignPatternsDemo.Tests/bin/Debug/net8.0
+/DesignPatternsDemo.Tests/obj
